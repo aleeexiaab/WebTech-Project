@@ -1,0 +1,64 @@
+.title {
+    background-color: rgb(230, 236, 230);
+}
+
+.buttons {
+    border-radius: 8px;
+    margin-top: 7px;
+    margin-right: 3px;
+    margin-left: 7px;
+    text-align: center;
+    background-color: brown;
+    color: white;
+    font-size: 15px;
+    padding: 7px 12px;
+    transition-duration: 0.5s;
+}
+
+.buttons:hover {
+    background-color: black;
+    color: white;
+}
+
+.inputs {
+    width: 35%;
+    padding: 7px 14px;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.inputs2 {
+    width: 20%;
+    padding: 5px 10px;
+    margin-left: 3px;
+}
+
+#addVideo {
+    margin-top: 20px;
+    border-radius: 8px;
+    margin-right: 3px;
+    text-align: center;
+    background-color: brown;
+    color: white;
+    font-size: 15px;
+    padding: 7px 12px;
+    transition-duration: 0.5s;
+    margin-left: 5px;
+}
+
+#addVideo:hover {
+    background-color: black;
+    color: white;
+}
+
+.headers {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 11px;
+}
+
+.divElements {
+    margin-left: 15px;
+    font-size: 20px;
+    margin-right: 7px;
+    padding: 10px;
+}
